@@ -1,4 +1,4 @@
-# This repository has beencreated to store my Google Earth Engine practice lessons
+# This repository has been created to store my Google Earth Engine practice lessons
 
 This is the black and white emoji png whose pixel values have been changed
 
