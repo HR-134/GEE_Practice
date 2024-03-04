@@ -5,3 +5,6 @@ This is the black and white emoji png whose pixel values have been changed
 
 This is the image showing seperated Red, green and Blue Channels of a picture
 [Seperated RGB image link](https://github.com/HR-134/GEE_Practice/blob/main/separated_R_G_B.png)
+
+This pdf file contains the description of 3 satellites including their band names, wavelength, pixel size and short description of the bands
+[Satellite description link](https://github.com/HR-134/GEE_Practice/blob/main/Satellite.pdf)
