@@ -15,5 +15,13 @@ This pdf file contains the description of 3 satellites including their band name
 This is the link of the code and screenshot of drawing a line, polygon and rectangle in Google Earth Engine
 
 [Code link](https://code.earthengine.google.com/be86960902135434438a58451262cdbe)
-
 [Screenshot link](https://github.com/HR-134/GEE_Practice/blob/main/vector.png)
+
+This link contatins the code and screemshot links for a feature collection created in Google Earth Engine containing 5 polygons
+[code link](https://github.com/HR-134/GEE_Practice/blob/main/GEE_AS_8.js)
+[Screenshot link](https://github.com/HR-134/GEE_Practice/blob/main/Waterbody.png)
+
+
+This is the link of the boundary of Bangladesh and Chittagong division
+[Bangladesh link](https://github.com/HR-134/GEE_Practice/blob/main/boundary_of_bd.png)
+[Division link](https://github.com/HR-134/GEE_Practice/blob/main/Chittagong.png)
