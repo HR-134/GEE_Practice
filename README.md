@@ -25,3 +25,10 @@ This link contatins the code and screemshot links for a feature collection creat
 This is the link of the boundary of Bangladesh and Chittagong division
 [Bangladesh link](https://github.com/HR-134/GEE_Practice/blob/main/boundary_of_bd.png)
 [Division link](https://github.com/HR-134/GEE_Practice/blob/main/Chittagong.png)
+
+
+# This section contains all the links related to Assignment 9
+This is the link for Converting key-value pair into a Dictionary object. Applying reducer to the list and printing the sum of the numList
+[Code link](https://code.earthengine.google.com/c24a60042a6eefef05e0e03ff07728c0)
+
+
