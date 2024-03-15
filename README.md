@@ -31,4 +31,7 @@ This is the link of the boundary of Bangladesh and Chittagong division
 This is the link for Converting key-value pair into a Dictionary object. Applying reducer to the list and printing the sum of the numList
 [Code link](https://code.earthengine.google.com/c24a60042a6eefef05e0e03ff07728c0)
 
+This is the link of the code for Converting a list into a GEE List object. Applying the map method and multiplying the value of each element of the list by 4
+[Code link](https://code.earthengine.google.com/360ca0e809c827e7ec757cc620709dff)
+
 
