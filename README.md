@@ -34,4 +34,8 @@ This is the link for Converting key-value pair into a Dictionary object. Applyin
 This is the link of the code for Converting a list into a GEE List object. Applying the map method and multiplying the value of each element of the list by 4
 [Code link](https://code.earthengine.google.com/360ca0e809c827e7ec757cc620709dff)
 
+This link conatins the code of filtering out my desired upazila, finding its area and perimeter and finally showing the boundary of the upazila on the map
+[Code link](https://code.earthengine.google.com/3933d58dada9c8b9202aeadafbda4f8d)
+[Map Boundary link](https://github.com/HR-134/GEE_Practice/blob/main/Upazila_ss.png)
+
 
