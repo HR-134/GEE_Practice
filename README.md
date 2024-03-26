@@ -38,4 +38,18 @@ This link conatins the code of filtering out my desired upazila, finding its are
 [Code link](https://code.earthengine.google.com/3933d58dada9c8b9202aeadafbda4f8d)
 [Map Boundary link](https://github.com/HR-134/GEE_Practice/blob/main/Upazila_ss.png)
 
+# This section contains all the links related to Assignment 10
+
+This link contains the code for selecting and filtering satellite image collection and working with individual images from the collection.
+[Code link](https://code.earthengine.google.com/974f1d21fe50212a287a9557c8b581f3)
+[Screenshot link](https://github.com/HR-134/GEE_Practice/blob/main/Satellie_img.png)
+
+This is the link of the code for creating an RGB Composite from an image collection of Upazila of interest [code link](https://code.earthengine.google.com/6fc60a99f4f59183031d7da7b0f9a8ab)
+[Image link](https://github.com/HR-134/GEE_Practice/blob/main/Boalkhali_RGB.png)
+
+This is the link of the code for creating a False Colour Image from an image collection of Upazila of interest
+[code link](https://code.earthengine.google.com/911700121d9d5619a6d7f1ec237774fa)
+[Image link](https://github.com/HR-134/GEE_Practice/blob/main/False_clr_img.png)
+
+
 
