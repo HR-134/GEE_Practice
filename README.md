@@ -62,12 +62,13 @@ This link contains the code for creating an ndvi image of a region of interest u
 [Image link](https://github.com/HR-134/GEE_Practice/blob/main/ndwi0.png)
 
 This link contains the code for creating an ndsi image of a region of interest using Sentinel-2 Imagery from the year 2021
-[code link](https://code.earthengine.google.com/85e2cf9ef3c3db393210f49d4ec63da9)
-[Image link](https://github.com/HR-134/GEE_Practice/blob/main/ndsi.png)
+[code link](https://code.earthengine.google.com/905f7e0ea5ae9de4afacade6c8742121)
+[Image link](https://github.com/HR-134/GEE_Practice/blob/main/ndsi%20-%20Copy.png)
 
 Calculation of the maximum and minimum NDVI values of the NDVI map
 [Code link](https://code.earthengine.google.com/8539812a2fcf7c3e08e12c1bfaf090ea)
 [Image link](https://github.com/HR-134/GEE_Practice/blob/main/Screenshot%202024-04-07%20072509.png)
+
 
 
 
