@@ -58,7 +58,7 @@ This link contains the code for creating an ndvi image of a region of interest f
 [Code link](https://code.earthengine.google.com/58ecef9d8d1acc4da62d388a325fc0e6)
 [Screenshot link](https://github.com/HR-134/GEE_Practice/blob/main/ndvi0.png)
 
-This link contains the code for creating an ndvi image of a region of interest using Sentinel-2 Imagery from the year 2023 [code link](https://code.earthengine.google.com/9d1e990c5e8d83c06e3981dfe40d54c3)
+This link contains the code for creating an ndwi image of a region of interest using Sentinel-2 Imagery from the year 2023 [code link](https://code.earthengine.google.com/9d1e990c5e8d83c06e3981dfe40d54c3)
 [Image link](https://github.com/HR-134/GEE_Practice/blob/main/ndwi0.png)
 
 This link contains the code for creating an ndsi image of a region of interest using Sentinel-2 Imagery from the year 2021
