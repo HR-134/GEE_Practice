@@ -52,4 +52,23 @@ This is the link of the code for creating a False Colour Image from an image col
 [Image link](https://github.com/HR-134/GEE_Practice/blob/main/False_clr_img.png)
 
 
+# This section contains all the links related to Assignment 11
+
+This link contains the code for creating an ndvi image of a region of interest from the year 2022 using Landset 9 Imagery.
+[Code link](https://code.earthengine.google.com/58ecef9d8d1acc4da62d388a325fc0e6)
+[Screenshot link](https://github.com/HR-134/GEE_Practice/blob/main/ndvi0.png)
+
+This link contains the code for creating an ndvi image of a region of interest using Sentinel-2 Imagery from the year 2023 [code link](https://code.earthengine.google.com/9d1e990c5e8d83c06e3981dfe40d54c3)
+[Image link](https://github.com/HR-134/GEE_Practice/blob/main/ndwi0.png)
+
+This link contains the code for creating an ndsi image of a region of interest using Sentinel-2 Imagery from the year 2021
+[code link](https://code.earthengine.google.com/85e2cf9ef3c3db393210f49d4ec63da9)
+[Image link](https://github.com/HR-134/GEE_Practice/blob/main/ndsi.png)
+
+Calculation of the maximum and minimum NDVI values of the NDVI map
+[Code link](https://code.earthengine.google.com/8539812a2fcf7c3e08e12c1bfaf090ea)
+[Image link](https://github.com/HR-134/GEE_Practice/blob/main/Screenshot%202024-04-07%20072509.png)
+
+
+
 
