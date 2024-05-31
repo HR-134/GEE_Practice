@@ -70,6 +70,20 @@ Calculation of the maximum and minimum NDVI values of the NDVI map
 [Image link](https://github.com/HR-134/GEE_Practice/blob/main/Screenshot%202024-04-07%20072509.png)
 
 
+# This section contains all the links related to Assignment 14
+
+This link contains the code for adding a property to a feature collection by using map() method.
+[Code link](https://code.earthengine.google.com/3cfb7d3a0ed0f53f313dda22c7c6c46e)
+
+This link contains the code for mapping over a list and creating a feature collection by passing null geometry to each element of that list.
+[code link](https://code.earthengine.google.com/7afd9ff76e92b97e5c7039420ff4f51c)
+
+This link contains the exported feature collection in CSV format
+[code link](https://code.earthengine.google.com/dc84bcc0e588ac7a9219467110dc42ba)
+[File link](https://github.com/HR-134/GEE_Practice/commit/79eea2c574396d11a92c1692734ee74670b38d1b)
+
+
+
 
 
 
