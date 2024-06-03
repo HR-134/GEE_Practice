@@ -82,6 +82,17 @@ This link contains the exported feature collection in CSV format
 [code link](https://code.earthengine.google.com/dc84bcc0e588ac7a9219467110dc42ba)
 [File link](https://github.com/HR-134/GEE_Practice/commit/79eea2c574396d11a92c1692734ee74670b38d1b)
 
+# This section contains all the links related to Assignment 15
+
+This link contains the code for a unsupervised classification by using Sentinel-2 for Lama, the classified image, and a fine tuned map.
+[Code link](https://code.earthengine.google.com/9b22ce226588272148733e12bfbf2901)
+[image link](https://github.com/HR-134/GEE_Practice/blob/main/Untitled.jpg)
+
+This link contains the code  for a supervised classification by using Sentinel-2 for Lama, the classified image, and a fine tuned map.
+[code link](https://code.earthengine.google.com/89053b0d6df137cf4a79881a8fcfa146)
+[image link](https://github.com/HR-134/GEE_Practice/blob/main/Untitled2.jpg)
+
+
 
 
 
